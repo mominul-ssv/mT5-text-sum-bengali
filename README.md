@@ -1,6 +1,6 @@
-# Fine-Tuning mT5 on XL-Sum Bengali Dataset for Text Summarization
+# Bengali Text Summarization Using a Multilingual Encoder-Decoder Model
 ### CSE495: Natural Language Processing
-- <b>ML Domain :</b> Text Summarization
+- <b>Model :</b> mT5
 
 ### Contributors
 - <b>Mominul Islam</b> (Team Leader)
